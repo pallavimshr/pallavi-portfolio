@@ -27,7 +27,7 @@ export default async function ExperiencePage() {
         </h1>
         
         <p className="mt-4 max-w-2xl text-base leading-relaxed text-graphite/80 md:text-lg">
-          2.5 years across full-stack and frontend roles, building production applications
+          4 years across full-stack and frontend roles, building production applications
           used by real users.
         </p>
       </div>
